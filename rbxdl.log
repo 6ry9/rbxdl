@@ -1,0 +1,4 @@
+HTTPSConnectionPool(host='api.roblox.com', port=443): Max retries exceeded with url: /marketplace/productinfo?assetId=15403084056 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A9BE1DE7D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+HTTPSConnectionPool(host='api.roblox.com', port=443): Max retries exceeded with url: /marketplace/productinfo?assetId=15403084056 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002C7B844E610>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
